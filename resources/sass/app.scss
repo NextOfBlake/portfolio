@@ -1,0 +1,34 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.sunflowers {
+  color: #FFCE00;
+}
+
+.starry-night {
+  color: #0375B4;
+}
+
+.irises {
+  color: #007849;
+}
+
+.evening {
+  color: #262228;
+}
+
+.morning {
+  color: #fdf4fd;
+}
